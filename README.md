@@ -6,6 +6,8 @@ https://math.libretexts.org/Courses/Palo_Alto_College/College_Algebra/05%3A_Syst
 -Python and numpy
 
 CODE:
+
+
 #Solves systems of equations
 #INPUT: A matrix (dw insturctions are there on how to make a system of equations into a matrix!)
 #OUTPUT: Variable values from back to front
