@@ -4,6 +4,8 @@ Solves systems of ANY number of linear equations using gaussian elimination
 -Run the code in your IDE
 https://math.libretexts.org/Courses/Palo_Alto_College/College_Algebra/05%3A_Systems_of_Equations_and_Inequalities/5.04%3A_Solving_Systems_with_Gaussian_Elimination -- source for turning system into matrix
 -Python and numpy
+-Formatting is bad but you can copy paste into smth
+
 
 CODE:
 
